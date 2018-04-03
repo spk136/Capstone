@@ -1,0 +1,16 @@
+Improve Customer Retention - Churn
+"Predict behavior to retain customers by analyzing all relevant customer data and develop focused customer retention programs."
+
+Data Science Capstone Project Proposal
+Spring 2018
+
+
+In the modern-world scenario of telecommunication industries, the customers have a range of options to choose from, as far as service providers are concerned. Factors such as perceived frequent service disruptions, poor customer service experiences, and better offers from other competing carriers may cause a customer to churn (likely to leave).
+
+Customer churn includes customers stopping the use of a service, switching to a competitor service, switching to a lower-tier experience in the service or reducing engagement with the service.
+
+customer retention is a top priority for many companies; acquiring new customers can be several times more expensive than retaining existing ones. Furthermore, gaining an understanding of the reasons customers churn and estimating the risk associated with individual customers are both powerful components of designing a data-driven retention strategy. A churn model can be the tool that brings these elements together and provides insights and outputs that drive decision making across an organization. 
+
+In this project, I would like to delve into customer churn modeling for my Capstone project. As the data for churn modeling often is proprietary or contains sensitive data, I have searched Kaggle dataset with guidance my mentor that can be used for churn analysis. Data set can be accessed using the link below:
+
+In this project, after wrangling the needed dataset which should include “business” and “review” sub datasets I will start by initial exploratory data analysis, afterward I dig more into the data and apply some statistical inference techniques on dataset to get some reliable ideas and insight into the data. Finally, I will apply text analysis algorithms to determine the potential detractors.
